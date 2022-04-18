@@ -1,8 +1,8 @@
 # FABMon
 
-This is an available bandwidth measurement tool, FABMon (Fast and Accurate Bandwidth Monitoring).
+This is the implementation of the available bandwidth measurement tool, FABMon (Fast and Accurate Bandwidth Monitoring).
 
-It is based on BQR (BurstQueueRecovery).
+It is based on the BQR (BurstQueueRecovery) model.
 
 ### features:
 * retry a maximum N times to get best results
