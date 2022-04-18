@@ -1,4 +1,6 @@
-efficient cpp version
+This is an available bandwidth measurement tool, FABMon (Fast and Accurate Bandwidth Monitoring).
+
+It is based on BQR (BurstQueueRecovery).
 
 ### features:
 * retry a maximum N times to get best results
